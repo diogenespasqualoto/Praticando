@@ -8,13 +8,12 @@
 
 </div>
 ### Project setup
-    
+    <br>
+    # tip:
+    <br>
     ## Try your Customize
 
     ´git clone https://github.com/diogenespasqualoto/Praticando.git ´
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-# tip:
 
 ## this URL will help you find the places to search on aplication: https://openweathermap.org/weathermap?basemap=map&cities=true&layer=temperature&lat=-41.9032&lon=-111.9727&zoom=3
