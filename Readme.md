@@ -1,32 +1,16 @@
 ## Made with
 
 <img src="https://seeklogo.com/images/H/html5-with-wordmark-black-white-logo-A6222B77EC-seeklogo.com.png" width="15%">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732007.png" width="15%">
+<img src="https://cdn-icons-png.flaticon.com/512/74/74962.png" width="15%">
+<img src="https://cdn-icons-png.flaticon.com/512/460/460771.png" width="15%">
 
 ### Project setup
+    
+    ## Try your Customize 
 
-```
-yarn install
-```
+    ´git clone https://github.com/diogenespasqualoto/Praticando.git ´
 
-### Compiles and hot-reloads for development
-
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-
-```
-yarn build
-```
-
-### Lints and fixes files
-
-```
-yarn lint
-```
-
-### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
