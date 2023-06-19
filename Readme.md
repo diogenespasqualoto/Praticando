@@ -1,23 +1,40 @@
-<h1>### Made with</h1>
+# Consulta de CEP
 
-<div style="text-align: center">
-<img src="https://www.flaticon.com/br/icone-gratis/js_5968292?term=js&page=1&position=3&origin=search&related_id=5968292" width="15%">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732007.png" width="15%">
-<img src="https://cdn-icons-png.flaticon.com/512/460/460771.png" width="15%">
-</div>
-</div>
+Este projeto implementa uma funcionalidade de consulta de CEP em uma página web. Permite que os usuários insiram um CEP válido e obtenham informações sobre o endereço correspondente.
 
-<h2>## Project setup</h2>
+## Funcionalidades
 
-<br>
+- Insira um CEP válido no campo de entrada.
+- Clique no botão de consulta para obter informações sobre o endereço.
+- Os dados do endereço, como localidade, UF, logradouro e bairro, serão exibidos na página.
 
-<h3># tip:</h3> 
-<br>
+## Tecnologias Utilizadas
 
-## Try your Customize
+- HTML
+- CSS
+- JavaScript
 
-<br>
+## Bibliotecas
 
-    ´git clone https://github.com/diogenespasqualoto/Praticando.git ´
+- Axios: utilizada para fazer a requisição HTTP para o serviço do ViaCEP.
 
-## this URL will help you get the project configuration and Files 
+## Como executar o projeto
+
+1. Clone este repositório em sua máquina local.
+2. Abra o arquivo `index.html` em qualquer navegador web.
+
+## Personalização
+
+Você pode personalizar o projeto de acordo com suas necessidades:
+
+- Modifique o estilo CSS para adequá-lo à aparência desejada.
+- Adicione validações extras para o campo de CEP, se necessário.
+- Ajuste o layout da página conforme suas preferências.
+
+## Agradecimentos
+
+Este projeto foi desenvolvido com base em um código de exemplo fornecido pela equipe do ViaCEP.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
